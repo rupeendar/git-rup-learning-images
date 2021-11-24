@@ -1,2 +1,7 @@
 Sample file to add address
+<<<<<<< HEAD
 qqqqqqqqq hhhh
+=======
+qqqqqqqqq
+Edited from Github branch - remote
+>>>>>>> 714e94e8c35f44e370c3c451c47926caa82517d1
